@@ -1,0 +1,13 @@
+D:\Sola\03. Letnik\Multimedia\01. Vaja\test\Test\Test\bin\Debug\Test.exe.config
+D:\Sola\03. Letnik\Multimedia\01. Vaja\test\Test\Test\bin\Debug\Test.exe
+D:\Sola\03. Letnik\Multimedia\01. Vaja\test\Test\Test\bin\Debug\Test.pdb
+D:\Sola\03. Letnik\Multimedia\01. Vaja\test\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Sola\03. Letnik\Multimedia\01. Vaja\test\Test\Test\obj\Debug\Test.Form1.resources
+D:\Sola\03. Letnik\Multimedia\01. Vaja\test\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Sola\03. Letnik\Multimedia\01. Vaja\test\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\Sola\03. Letnik\Multimedia\01. Vaja\test\Test\Test\obj\Debug\Test.exe
+D:\Sola\03. Letnik\Multimedia\01. Vaja\test\Test\Test\obj\Debug\Test.pdb
+D:\Sola\03. Letnik\Multimedia\01. Vaja\test\Test\Test\bin\Debug\BouncyCastle.Crypto.dll
+D:\Sola\03. Letnik\Multimedia\01. Vaja\test\Test\Test\bin\Debug\itextsharp.dll
+D:\Sola\03. Letnik\Multimedia\01. Vaja\test\Test\Test\bin\Debug\itextsharp.xml
+D:\Sola\03. Letnik\Multimedia\01. Vaja\test\Test\Test\obj\Debug\Test.csproj.CopyComplete
